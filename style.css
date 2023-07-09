@@ -150,4 +150,38 @@
     display: flex;
     gap: 10px;
 }
+.pt{
+    background-color: black;
+    height: 300px;
+}
+.pt1{
+    color: white;
+    width: 20%;
+}
+.pt2{
+    color: white; 
+    width: 20%;
+}
+.pt3{
+    color: white; 
+    width: 20%;
+}
+.pt4{
+    color: white;
+    width: 20%; 
+}
+.pt-t{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.hr{
+    color: white;
+    margin: 10px;
+}
+.right-section{
+    color: white;
+    text-align: center;
+}
 
